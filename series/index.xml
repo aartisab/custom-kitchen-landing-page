@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Custom Kitchen</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/series/</link>
+    <link>https://aartisab.github.io/custom-kitchen-landing-page/series/</link>
     <description>Recent content in Series on Custom Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Aarti Sabharwal, Malcolm Wengel, Dominic Chang, Minyu Deng</copyright>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aartisab.github.io/custom-kitchen-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
