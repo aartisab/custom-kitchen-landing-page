@@ -11,8 +11,8 @@ hugo.linux
 # Temporary Hugo files
 .hugo_build.lock
 
-# # Hugo-generated directory
-# /public/
+# Hugo-generated directory
+/public/
 
 # Dependency directories (remove if you track dependencies)
 /node_modules/
